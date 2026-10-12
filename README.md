@@ -1,4 +1,4 @@
-# Path to Senior Engineer handbook
+# Path to Senior Engineer Handbook
 
 This repo has all the resources you need to reach Senior Software Engineer!
 
@@ -12,13 +12,15 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
-- [Other Catalogs](#other-catalogs)
+- [Platforms](#platforms)
+- [Helpful Tools](#helpful-tools)
+- [Other catalogs](#other-catalogs)
 
 ## Newsletters
 
 ### General software engineer growth
 
-- [High Growth Engineer](https://careercutler.substack.com/)
+- [High Growth Engineer](https://read.highgrowthengineer.com/)
 - [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
 - [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
 - [Engineer’s Codex](https://open.substack.com/pub/engineercodex)
@@ -30,7 +32,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Strategize Your Career](https://open.substack.com/pub/strategizeyourcareer)
 - [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
 - [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
-- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted?utm_source=mentions)
+- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
+- [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
+- [A Life Engineered](https://newsletter.alifeengineered.com/)
 
 ### Staying up-to-date
 
@@ -43,20 +47,22 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ### Frameworks and smart thinking
 
 - [Wes Kao's Newsletter](https://open.substack.com/pub/weskao)
+- [Operator's Handbook](https://www.operatorshandbook.com/)
 - [Alex Brogan frameworks](https://www.alexbrogan.com/)
 
 ### System design
 
 - [System Design Newsletter](https://open.substack.com/pub/systemdesignone)
+- [Hello, World!](https://hw.glich.co)
 - [Quastor](https://blog.quastor.org/)
 - [ByteByteGo Newsletter](https://open.substack.com/pub/bytebytego)
 - [Byte-Sized Design](https://open.substack.com/users/134878169-byte-sized-design?utm_source=mentions)
 - [The Polymathic Engineer](https://open.substack.com/pub/francofernando)
 
-### Reliability Engineering
+### Reliability engineering
 
 - [SRE Weekly](https://sreweekly.com/)
-- [Platform Engineering Weekly](https://www.platformengineeringweekly.com/)
+- [Platform Engineering Weekly](https://platformweekly.com/)
 - [Alex Ewerlöf Notes/SRE](https://blog.alexewerlof.com/s/sre)
 
 ### Leadership
@@ -66,6 +72,8 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Engineering Leadership](https://open.substack.com/pub/gregorojstersek)
 - [Addy Osmani](https://addyosmani.com/blog/) ([RSS Link](https://addyosmani.com/feed.xml))
 - [Irrational Exuberance](https://lethain.com/newsletter/)
+- [Leadership Letters](https://www.leadership-letters.com)
+- [Blog for Engineering Managers](https://blog4ems.com)
 
 ### Web-dev specific
 
@@ -99,6 +107,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Crucial accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments-ebook/dp/B00C4BDRW6)
 - [It was the best of sentences, it was the worst of sentences](https://www.amazon.com/Was-Best-Sentences-Worst-Crafting-ebook/dp/B0036S4AX6)
 - [On writing well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+- [The Insider's Guide to Technical Writing](https://www.amazon.com/Insiders-Guide-Technical-Writing-ebook/dp/B09X2CHHB1)
 
 ### Storytelling
 
@@ -115,19 +124,20 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [A philosophy of software design](https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL)
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
 - [Collection - Grady Booch, Software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
-### Software Engineer Overall
+### Software engineer overall
 
 - [Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - [Engineers Survival Guide](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 - [The Coding Career Handbook](https://learninpublic.org/)
-- [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1)
 - [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
 
-### System Design
+### System design
 
 - [Front End System Design Guidebook](https://www.greatfrontend.com/system-design)
 - [Awesome Front End System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Leadership
 
@@ -137,8 +147,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever-ebook/dp/B01BUIBBZI)
 - [The Advice Trap](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B)
 - [The making of a manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2)
+- [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Need](https://www.amazon.com/Become-Effective-Software-Engineering-Manager/dp/1680507249)
 
-### Persuasion & influence
+### Persuasion and influence
 
 - [Influence: The psychology of persuasion](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN)
 - [Yes - 50 scientifically proven ways to be persuasive](https://www.amazon.com/Yes-Scientifically-Proven-Ways-Persuasive-ebook/dp/B001F51X64)
@@ -163,16 +174,21 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Courses
 
-### Top Courses
+### Top courses
 
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
+- [Career growth courses on JoinTaro](https://www.jointaro.com/courses/)
+- [Speedrun to Promotion by Steve Huynh](https://speedruntopromotion.com/)
+- [Become a go-to expert on your team by Jordan Cutler](https://www.jointaro.com/course/become-the-go-to-expert-as-a-software-engineer/)
+- [Frontend System Design by Maxi Ferreira - Free](https://frontendatscale.com/courses/frontend-architecture)
 - [Josh Comeau CSS course](https://css-for-js.dev/)
 - [Josh Comeau React course](https://www.joyofreact.com/)
 - [Kent C Dodds Epic React](https://epicreact.dev/)
 - [Kent C Dodds Epic Web](https://www.epicweb.dev/)
 - [Bob Ziroll Learn React for Free](https://scrimba.com/learn/learnreact)
+- [Google Technical Writing](https://developers.google.com/tech-writing/overview)
 
-### Recommended Websites
+### Recommended websites
 
 - [Frontendmasters subscription](https://frontendmasters.com/)
 - [Udemy courses](https://www.udemy.com/)
@@ -180,12 +196,16 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Pluralsight courses](https://www.pluralsight.com/)
 - [Udacity courses](https://www.udacity.com/)
 - [Coursera courses](https://www.coursera.org/)
-- [Linkedin Learning](https://www.linkedin.com/learning/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
 - [Future Learn](https://www.futurelearn.com/subjects/it-and-computer-science-courses)
 - [edX](https://www.edx.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
 - [Scrimba interactive courses](https://scrimba.com)
+- [KodeKloud](https://www.kodekloud.com)
+- [Hyperskill](https://hyperskill.org/tracks)
+- [LabEx](https://labex.io/)
+- [InterviewLegend](https://interviewlegend.com) - breaks down what specific companies ask across coding, system design, and behavioral interviews, based on first-hand reports
 
 ## Papers
 
@@ -204,8 +224,10 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Fireship](https://www.youtube.com/@Fireship)
 - [ThePrimeTime / Primeagen](https://www.youtube.com/@ThePrimeTimeagen)
 
-### Senior+ Soft skills
+### Senior+ soft skills
 
+- [A Life Engineered - Steve Huynh](https://www.youtube.com/@ALifeEngineered)
+- [Exaltitude Career Growth](https://www.youtube.com/@exaltitude)
 - [LeadDev](https://www.youtube.com/@LeadDev/videos)
 - [Lenny’s Podcast](https://www.youtube.com/@LennysPodcast)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
@@ -232,16 +254,24 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Frontend First Podcast](https://www.youtube.com/@frontendfirst)
 - [The Changelog Podcast](https://changelog.fm)
 - [The Scrimba Podcast](https://scrimba.com/podcast/)
+- [Developing Leadership](https://www.developingleadership.co/)
+- [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/)
+
 
 ## Communities
 
 - [Taro](https://www.jointaro.com/)
+- [Exaltitude Engineering Leadership Community](https://www.exaltitude.io/)
 - [Small Bets Community](https://dvassallo.gumroad.com/l/small-bets)
+- [GreatFrontend](https://discord.gg/NDFx8f6P6B)
 - [Theo - T3](https://discord.com/invite/xHdCpcPHRE)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Kent C. Dodds Discord Community](https://kentcdodds.com/discord)
+- [Tiger Abrodi's Little Software Planet](https://littlesoftwareplanet.com/community)
 - [Changelog Community](https://changelog.com/community)
 - [Scrimba Discord Community](https://scrimba.com/community)
+- [ladderly.io](https://ladderly.io/)
+- [Rands Leadership Community (Slack)](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
 ## LinkedIn
 
@@ -282,8 +312,42 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Yangshun Tay](https://www.linkedin.com/in/yangshun/)
 - [David Anderson](https://www.linkedin.com/in/scarletink/)
 - [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
+- [Jean Lee](https://www.linkedin.com/in/jeanklee/)
+- [Akash Mukherjee](https://www.linkedin.com/in/akashmuk/)
 
-## Other Catalogs
+## Platforms
+
+### General leveling up
+- [Codecrafters: Practice writing complex software (affiliate - 40% off)](https://app.codecrafters.io/join?via=jordan-cutler) [non-affiliate link version](https://app.codecrafters.io)
+
+### Interview prep
+
+#### Coding interview
+- [LeetCode](https://www.leetcode.com)
+- [NeetCode](https://www.neetcode.io)
+- [PyPup](https://www.pypup.com)
+- [Codemia](https://codemia.io)
+- [PracHub](https://prachub.com)
+- [bugfree.ai](https://bugfree.ai?utm_source=git-path-to-senior-engineer-handbook)
+
+#### Mock interviews
+- [Pramp](https://www.pramp.com)
+- [Hello Interview](https://www.hellointerview.com)
+- [Interviewing IO](https://www.interviewing.io)
+- [IGotAnOffer](https://www.igotanoffer.com)
+- [MeetAPro](https://www.meetapro.com)
+- [Easyclimbtech](https://www.easyclimb.tech)
+- [Interview Kickstart](https://learn.interviewkickstart.com/ace-your-mock-interview)
+- [AI Interview Coach](https://em-tools.io/interview-prep)
+
+### Job boards
+- [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI and machine learning engineering roles, with 7,400+ jobs from 400+ companies and a free REST API.
+- [Jobs in JS](https://jobsinjs.com/) - Job board for JavaScript developers.
+
+## Helpful Tools
+- [WriteEdge for writing tech specs](https://www.writeedge.ai/)
+
+## Other catalogs
 
 - [Software Engineer's Library](https://kevinsmith.io/library/)
 - [16x Engineer](https://16x.engineer/)
